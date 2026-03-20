@@ -1,0 +1,7 @@
+substitutions:
+  loading_illustration_file: https://github.com/PA-THO/pando-box-3/blob/main/images/HA1_LOADING_IMAGE.png
+  idle_illustration_file: https://github.com/PA-THO/pando-box-3/blob/main/images/HA1_IDLE.png
+  listening_illustration_file: https://github.com/PA-THO/pando-box-3/blob/main/images/HA1_LISTEN.png
+  thinking_illustration_file: https://github.com/PA-THO/pando-box-3/blob/main/images/HA1_THINK.png
+  replying_illustration_file: https://github.com/PA-THO/pando-box-3/blob/main/images/HA1_REPLY.png
+  error_illustration_file: https://github.com/PA-THO/pando-box-3/blob/main/images/HA1_ERROR.png
